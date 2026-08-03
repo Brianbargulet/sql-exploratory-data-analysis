@@ -18,7 +18,15 @@ for this analysis.
 - SQL (MySQL)
 
 ## Related Project
-[SQL Data Cleaning Project](https://github.com/Brianbargulet/sql-data-cleaning-project) — the cleaning script that prepared this dataset
+[SQL Data Cleaning Project] (https://github.com/Brianbargulet/sql-data-cleaning-project) — the cleaning script that prepared this dataset
 
 ## Files in This Repo
 - `eda_project.sql` — full SQL script with analysis queries and comments
+
+- ## Excel Dashboard
+In addition to the SQL analysis, I built an interactive Excel dashboard 
+using PivotTables, PivotCharts, and Slicers to visualize the key findings — 
+including layoffs by year, top companies, industries, countries, and a 
+funding-vs-layoffs comparison.
+
+📊 File: `Layoffs_2022_EDA_Dashboard.xlsx`
